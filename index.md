@@ -2,11 +2,11 @@
 
 Esta es una página de prueba para ver el potencial de GitPages. Una utilidad de GitHub para crear páginas web.
 
-El propósito es experimentar con esta funcionalidad, con el objetivo de crear una página con información
+El propósito es experimentar con esta funcionalidad, con el objetivo de crear una página con información.
 
 ### Que es esto
 
-Como se puede ver, a través del lenguaje de Markdown, se puede hacer uso de una serie de etiquetas que sirve para organizar la información
+A través del lenguaje de Markdown, se puede hace uso de las etiquetas para organizar la información.
 
 Aquí algunos ejemplos
 
