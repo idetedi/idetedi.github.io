@@ -1,37 +1,33 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/idetedi/idetedi.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Esta es una pagina de prueba pra ver el potencial de GitPages. Una utilidad de GitHub para crear páginas web.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+El proposito es exprimentar con esta funcionalidad, con el objetivo de crear una página con información
 
-### Markdown
+### Que es esto
+
+Como se puede ver, a través del lenguaje de Markdown, se puede hacer uso de una seríe de etiquetas que sirve para organizar la información
+
+Aquí algunos ejemplos
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
-Syntax highlighted code block
+Una utilidad es crear bloques de código,, de tal forma que se puede agrupar las secciones
 
-# Header 1
-## Header 2
-### Header 3
+# Esto es una cabecera
+## Una segunda cabecera
+### Otra cabecera más
 
-- Bulleted
-- List
+- También
+- se puede crear listas
 
-1. Numbered
-2. List
+1. Incluso
+2. Númeradas
 
-**Bold** and _Italic_ and `Code` text
+**Bold** Se puede _Italic_ destacar `Code` el texto
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/idetedi/idetedi.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Por supuesto, esto es una pequeño ejemplo. Todo este contenido se irá actualizando y ampliando.
