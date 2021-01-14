@@ -1,3 +1,3 @@
-# idetedi.github.io
+# README
 
-Comienzo del apoyo
+Este repositorío no es más que un experimento para el uso de las páginas en GuitHub.
