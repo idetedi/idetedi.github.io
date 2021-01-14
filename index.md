@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Bienvenido a un ejmeplo
 
 Esta es una pagina de prueba pra ver el potencial de GitPages. Una utilidad de GitHub para crear páginas web.
 
