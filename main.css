@@ -1,0 +1,23 @@
+body {
+    background-color: lightblue;
+}
+.center {
+    display: grid;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.youtube
+{
+    display: grid;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+#Ganon{
+    display: inline-grid;
+    vertical-align: central;
+    font-size: x-large;
+}
